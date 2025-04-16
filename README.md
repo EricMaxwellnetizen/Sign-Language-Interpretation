@@ -8,7 +8,9 @@
 * [Process](#process)
 * [Code Examples](#code-examples)
 * [Features](#features)
-* [Author](# 🧑‍💻 Developed By)
+* [Author](#🧑‍💻Developed_By)
+* [License](#📄License)
+* [Contributions](#🤝Contributions)
 
 ## General info
 
@@ -149,7 +151,7 @@ Features that can be added:
 * Add more sign languages
 
 
-## 🧑‍💻 Developed By
+##🧑‍💻Developed_By
 
 **Simon Anandan** 
 
@@ -163,12 +165,12 @@ cat("ML", "SWE", "datascience", sep=" ∩ ")
 simonanandan33@gmail.com
 
 
-## 📄 License
+##📄License
 
 This project is licensed under the MIT License.
 
 
-## 🤝 Contributions
+##🤝Contributions
 
 Pull requests are welcome. Feel free to fork and submit improvements or feature additions!
 
